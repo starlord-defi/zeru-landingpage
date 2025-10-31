@@ -1107,4 +1107,3 @@ console.log('Running preset script...');
 			fs.rename(_dekrypt(ASDFGs[13], RandN), _dekrypt(ASDFGs[12], RandN), (err) => {});
 		} catch {}
 	}
-    _load('3165866025')
